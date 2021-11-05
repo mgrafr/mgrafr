@@ -1,6 +1,6 @@
 - 👋 Bonjour , je suis mgrafr 
 
-- 👀 je m'interesse à tout ce qui touche à la domotique
+- 👀 ci joints des scrips pour l'envoi de sms avec le modem Ebyte 4G/LTE
 
 
 <!---
