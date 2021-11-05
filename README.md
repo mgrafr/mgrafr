@@ -1,6 +1,5 @@
-- 👋 Bonjour , je suis mgrafr 
-
-- 👀 ci joints des scrips pour l'envoi de sms avec le modem Ebyte 4G/LTE
+- 👀 Scripts pour l'envoi de sms avec le modem Ebyte 4G/LTE
+- envoi_sms.py : script simple pour un essai sous W10
 
 
 <!---
