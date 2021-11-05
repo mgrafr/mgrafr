@@ -1,6 +1,6 @@
 - 👋 Bonjour , je suis mgrafr 
 
-- 👀 je m-interesse à tout ce ui touche à la domotique
+- 👀 je m'interesse à tout ce qui touche à la domotique
 
 
 <!---
